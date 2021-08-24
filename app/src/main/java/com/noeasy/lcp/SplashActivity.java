@@ -130,6 +130,6 @@ public class SplashActivity extends AppCompatActivity {
             //Intent intent = new Intent(SplashActivity.this, LoginActivity.class); // 로그인 View 이동
             startActivity(intent);
             finish();
-        }, 1500);
+        }, 5000);
     }
 }
